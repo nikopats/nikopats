@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikopats
-- 👀 I’m interested in machine learning, deep learning, data science.
-- 🌱 I’m currently learning python, SQL and power BI.
+- 👀 I’m interested in machine learning for engineering and financial applications.
+- 🌱 I’m currently learning python, sql and power BI.
 
 <!---
 nikopats/nikopats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
